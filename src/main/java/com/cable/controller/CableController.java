@@ -9,6 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class CableController {
 	
+	
 	@RequestMapping("/home")
 	public ModelAndView home() {
 		System.out.println("Controller");
