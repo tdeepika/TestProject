@@ -23,7 +23,7 @@ public class CableController {
 		String message7 = "Hello WorlfdgdfgdfgVC";
 		
 		System.out.println("Controller");
-		String message8 = "Hello WorlfvbcbdgdfgdfgVC";
+		String message8 = "Hello WorlfvbcbdgcvbvcbcdfgdfgVC";
 		String message0= "Hello WorlfdgdfgdfgVC";
 		String message9 = "Hello WorlfdgdfgdfgVC";
 	}
