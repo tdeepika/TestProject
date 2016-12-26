@@ -20,8 +20,8 @@ public class CableController {
 		System.out.println("Controller");
 		String message6 = "Hello WorlfdgdfgdfgVC";
 		System.out.println("Controller");
-		String message7 = "Hello WorlfdgdfgdfgVC";
-		
+		String message7 = "Hello bbbbb";
+				
 		System.out.println("Controller");
 		String message8 = "Hello dfsdf";
 		String message0= "Hello WorlfdgdfgdfgVC";
