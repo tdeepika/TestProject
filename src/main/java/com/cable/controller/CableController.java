@@ -9,7 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class CableController {
 	
-	@RequestMapping("/home")
+	@RequestMapping("/home1")
 	public ModelAndView home() {
 		System.out.println("Controller");
 		String message = "Hello World, Spring MVC @ Javatpoint";
